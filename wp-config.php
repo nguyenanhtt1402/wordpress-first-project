@@ -23,10 +23,10 @@
 define('DB_NAME', 'game');
 
 /** MySQL database username */
-define('DB_USER', 'homestead');
+define('DB_USER', 'new_prj');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'secret');
+define('DB_PASSWORD', '123456');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
